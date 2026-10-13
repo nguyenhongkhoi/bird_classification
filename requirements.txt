@@ -1,0 +1,21 @@
+# Core Deep Learning & Machine Learning
+torch>=2.0.0
+scikit-learn>=1.2.0
+
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Scientific Computing & Data Processing
+numpy>=1.24.0
+
+# Visualization & Progress
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+
+# Dataset Download & Environment
+kaggle>=1.6.0
+jupyter
+ipykernel
+
